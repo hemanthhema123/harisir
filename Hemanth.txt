@@ -10,3 +10,9 @@ read
 deva1
 leanrner
 reader
+deva2
+learning
+reading
+deva3
+dfs
+dfa
