@@ -2,7 +2,12 @@ sai
 undoing changes in stage area at 2
 devops
 bng
+<<<<<<< HEAD
 undoing changes in stage area at 5
 conflits demo in local
 conflits demo in remote
 undoing changes  in stage area at 8
+=======
+conflits demo in local
+conflits demo in remote
+>>>>>>> 209a8c06e9cdb90e18e51824335d13db66ede2e4
