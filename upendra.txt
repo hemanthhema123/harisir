@@ -2,8 +2,11 @@ Nani
 devops 
 bng
 india()
+<<<<<<< HEAD
 revert command
 for remote changes
 ok fine
 gud bye
 deva 123
+=======
+>>>>>>> parent of 1e671a9 (Update upendra.txt)
