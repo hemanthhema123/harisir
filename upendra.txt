@@ -2,3 +2,7 @@ Nani
 devops 
 bng
 india()
+revert command
+for remote changes
+ok fine
+gud bye
